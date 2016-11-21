@@ -1,0 +1,65 @@
+body {
+  padding: 120px;
+  background: rgba(226, 226, 226, 1);
+  background: -moz-linear-gradient(left, rgba(226, 226, 226, 1) 0%, rgba(219, 219, 219, 1) 12%, rgba(209, 209, 209, 1) 12%, rgba(254, 254, 254, 1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(226, 226, 226, 1)), color-stop(12%, rgba(219, 219, 219, 1)), color-stop(12%, rgba(209, 209, 209, 1)), color-stop(100%, rgba(254, 254, 254, 1)));
+  background: -webkit-linear-gradient(left, rgba(226, 226, 226, 1) 0%, rgba(219, 219, 219, 1) 12%, rgba(209, 209, 209, 1) 12%, rgba(254, 254, 254, 1) 100%);
+  background: -o-linear-gradient(left, rgba(226, 226, 226, 1) 0%, rgba(219, 219, 219, 1) 12%, rgba(209, 209, 209, 1) 12%, rgba(254, 254, 254, 1) 100%);
+  background: -ms-linear-gradient(left, rgba(226, 226, 226, 1) 0%, rgba(219, 219, 219, 1) 12%, rgba(209, 209, 209, 1) 12%, rgba(254, 254, 254, 1) 100%);
+  background: linear-gradient(to right, rgba(226, 226, 226, 1) 0%, rgba(219, 219, 219, 1) 12%, rgba(209, 209, 209, 1) 12%, rgba(254, 254, 254, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe', GradientType=1);
+}
+
+.img1 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: Times;
+}
+
+.p1 {
+  text-align: center;
+}
+
+.p3 {
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 140px;
+}
+
+.result {
+  text-align: center;
+  padding-top: 15px;
+  box-size: 50px 100px 50px 100px;
+}
+
+.btn {
+  box-shadow: 2px 2px;
+  font-family: Helvetica;
+  color: black;
+}
+
+.search-row {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: left;
+  margin-right: -4px;
+  font-size: 20px;
+  font-family: Times;
+}
+
+.panel-title {
+  font-size: 25px;
+  font-family: Times;
+}
